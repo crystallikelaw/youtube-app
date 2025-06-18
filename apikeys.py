@@ -1,4 +1,0 @@
-youtubeCreds = "AIzaSyBk3EuAaJJRh0il_wxOMQqYu48fh53JuNE"
-
-
-steamCreds = "3899AD4E95927E112753F22E0684B95F"
